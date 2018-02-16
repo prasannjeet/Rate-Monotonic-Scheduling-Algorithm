@@ -5,16 +5,17 @@ Implement the RMS scheduling algorithm without considering resource sharing and 
 
 ----------
 >This solution uses Java to implement the basic Rate Monotonic Scheduling. Following are the assumptions made:
-
  >1. All the tasks are independent.
  >2. All the tasks are periodic in nature.
  >3. The time period and deadline are one and the same.
  >4. Process switching takes negligible time.
  >5. All the given tasks are ready to be processed at time zero.
 
+
 **How To Execute**
-*First line tells how many tasks are present in the current task set, let's say n.*
-*Next 'n' lines contain period 'P' and computation time 'C' for each task.*
+
+First line tells how many tasks are present in the current task set, let's say n.
+Next 'n' lines contain period 'P' and computation time 'C' for each task.
 
 **Sample Input**
 
