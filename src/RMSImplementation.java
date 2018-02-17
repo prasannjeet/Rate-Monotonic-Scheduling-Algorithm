@@ -75,7 +75,6 @@ public class RMSImplementation {
         //Added task somewhere in the middle -> 5
         //Added the least prioritized task in a list with size more than 2 -> 6
         //Impossible -> 7
-
         int addNewTask(Task T) {
             if (TheQueue.isEmpty()) {
                 TheQueue.addFirst(T);
