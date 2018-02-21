@@ -33,8 +33,8 @@
       <file leaf-file-name="RMSImplementation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RMSImplementation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-33">
-              <caret line="142" column="60" lean-forward="true" selection-start-line="142" selection-start-column="60" selection-end-line="142" selection-end-column="60" />
+            <state relative-caret-position="287">
+              <caret line="212" column="34" lean-forward="false" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4678#4679#0" expanded="true" />
@@ -269,7 +269,7 @@
       <workItem from="1518810232806" duration="1031000" />
       <workItem from="1518813200720" duration="1616000" />
       <workItem from="1518909540224" duration="229000" />
-      <workItem from="1519248327843" duration="3627000" />
+      <workItem from="1519248327843" duration="3735000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1518743983015</created>
@@ -299,11 +299,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518909105389</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Some confusion with ending the cycle with lcm">
+      <created>1519252738399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1519252738400</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35593000" />
+    <option name="totallyTimeSpent" value="35701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -381,7 +388,8 @@
     <MESSAGE value="Updated readme" />
     <MESSAGE value="Updated readme 2" />
     <MESSAGE value="Minor upgrades" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor upgrades" />
+    <MESSAGE value="Some confusion with ending the cycle with lcm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some confusion with ending the cycle with lcm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -494,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RMSImplementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="142" column="60" lean-forward="true" selection-start-line="142" selection-start-column="60" selection-end-line="142" selection-end-column="60" />
+        <state relative-caret-position="287">
+          <caret line="212" column="34" lean-forward="false" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#4678#4679#0" expanded="true" />
