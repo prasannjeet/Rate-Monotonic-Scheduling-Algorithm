@@ -207,8 +207,10 @@ public class RMSImplementation {
                     int tempVar = 0;
                     if (ReadyQueue.TheQueue.size() == PeriodicTaskList.size()) {
                         for (int k = 0; k < ReadyQueue.TheQueue.size(); k++) {
+                            System.out.println((ReadyQueue.TheQueue.get(k).r)+" AND "+(ReadyQueue.TheQueue.get(k).c));
                             if (ReadyQueue.TheQueue.get(k).r != ReadyQueue.TheQueue.get(k).c) {
                                 tempVar = 1;
+                                System.out.println("TWO");
                                 break;
                             }
                         }
